@@ -1,2 +1,2 @@
-# Html-CSS
-Responsive projects created using html and css.
+# Persona portfolio design via html and css to show case your projects.
+Practice projects on freecodecamp
