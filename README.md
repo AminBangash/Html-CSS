@@ -1,2 +1,2 @@
-# Persona portfolio design via html and css to show case your projects.
-Practice projects on freecodecamp
+# Responsive Web Design using HTML and CSS 
+Personal portfolio design to show case your projects.
